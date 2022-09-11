@@ -19,7 +19,6 @@ bl_info = {
 
 def sortManifest(self, context):
     return sorted(context.scene.Manifest, key=lambda o: o[context.scene.Manifest_Sort])
-    # return context.scene.Manifest
 
 
 def getSelectedObjects(context, type=None):
@@ -143,8 +142,7 @@ def register():
             ("z", "z", "sort manifest"),
             ("count", "count", "sort manifest"),
         ],
-        default="name",
-        update=sortManifest
+        default="name"
     )
 
 
