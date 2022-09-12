@@ -1,5 +1,7 @@
 # blender-manifest-addon
 
+https://youtu.be/F9jIaV5grgQ
+
 ![Screen Shot 2022-09-10 at 10 35 21 PM](https://user-images.githubusercontent.com/138704/189510229-7ebd663f-a3d1-4861-94ec-e888783de0e5.png)
 
 
